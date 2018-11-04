@@ -16,11 +16,12 @@ main {
 #img-div {
     background: white;
     text-align: center;
+    justify-content: center;
+    display: block;
 }
 
 #image {
     max-width: 100%;
-    display: block;
 }
 
 #img-caption {
