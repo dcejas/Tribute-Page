@@ -16,11 +16,11 @@ main {
     background: white;
     text-align: center;
     justify-content: center;
-    display: block;
 }
 
 #image {
     max-width: auto;
+    display: block;
 }
 
 #img-caption {
